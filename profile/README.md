@@ -21,7 +21,7 @@
 
 ## 팀 소개
 - **팀명**: 비범대(飛範大)
-- **팀원**: [심현우](https://github.com/Data-MaSTeRR), [김성현](https://github.com/archun39), [송주영](https://github.com/cloudyrider) , [이효민](https://github.com/daxnii), [한성욱](https://github.com/SeongUk18)
+- **팀원**: [심현우](https://github.com/Data-MaSTeRR), [김성현](https://github.com/archun39),[송주영](https://github.com/cloudyrider) , [이효민](https://github.com/daxnii), [한성욱](https://github.com/SeongUk18)
 - **멘토**: 이중윤 (SKT)
 
 # 프로젝트 내 역할
