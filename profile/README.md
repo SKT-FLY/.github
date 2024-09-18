@@ -27,11 +27,11 @@
 # 프로젝트 내 역할
 | 이름       | 역할       |  
 |------------|------------|
-| [**김성현**](https://github.com/archun39) | AI         |  
-| [**송주영**](https://github.com/cloudyrider) | AI         |  
-| [**심현우**](https://github.com/Data-MaSTeRR) | Frontend (FE) |  
-| [**이효민**](https://github.com/daxnii) | Frontend (FE) |  
-| [**한성욱**](https://github.com/SeongUk18) | Backend (BE)  |
+| [**김성현**](https://github.com/SKT-FLY/bbd-ai/tree/main/ai) | AI         |  
+| [**송주영**](https://github.com/SKT-FLY/bbd-ai/tree/main/ai) | AI         |  
+| [**심현우**](https://github.com/SKT-FLY/bbd_fe) | Frontend (FE) |  
+| [**이효민**](https://github.com/SKT-FLY/bbd_fe) | Frontend (FE) |  
+| [**한성욱**](https://github.com/SKT-FLY/bbd-be) | Backend (BE)  |
 
 
 ### Tech Stack
